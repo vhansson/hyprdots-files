@@ -1,0 +1,7 @@
+    "custom/weather": {
+        "format": "{}",
+        "return-type": "json",
+        "exec": " weather.sh",
+        "interval": 10,
+        "on-click": "firefox https://wttr.in"
+    },

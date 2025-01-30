@@ -1,0 +1,6 @@
+    "custom/powerdraw": {
+        "format": "{}",
+        "interval": 1,
+        "exec": " powerdraw.sh",
+        "return-type": "json"
+    },
